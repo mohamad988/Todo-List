@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588627004102",
+    "project_id": "mohammad988ibra-todo-list",
+    "storage_bucket": "mohammad988ibra-todo-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588627004102:android:1a9357916e80cdd77765c7",
+        "android_client_info": {
+          "package_name": "com.mohamad988.todo_list0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588627004102-591go1el4a7jbo102fkvirv05iigt82v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a3WD64EadCsG01RPMkDm3_F-RJQYKz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588627004102-591go1el4a7jbo102fkvirv05iigt82v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

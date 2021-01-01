@@ -49,7 +49,7 @@ public class AllListsAdapter extends RecyclerView.Adapter<AllListsAdapter.ViewHo
         holder.noOfTask.setText(" Task");
         }
 
-    }
+
 
     @Override
     public int getItemCount() {

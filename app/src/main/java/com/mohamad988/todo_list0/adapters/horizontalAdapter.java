@@ -8,13 +8,13 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.omar98k.todolist.R;
-import com.omar98k.todolist.classes.ListClass;
+import com.mohamad988.todo_list0.R;
+import com.mohamad988.todo_list0.classes.ListClass;
 
 import java.util.ArrayList;
+import static com.mohamad988.todo_list0.Lists.currentNotebookId;
 
-import static com.omar98k.todolist.Lists.currentNotebookId;
-import static com.omar98k.todolist.ShowTask.notes;
+import static com.mohamad988.todo_list0.ShowTask.notes;
 
 public class horizontalAdapter  extends RecyclerView.Adapter<horizontalAdapter.ViewHolder> {
 

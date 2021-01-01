@@ -7,8 +7,8 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.omar98k.todolist.R;
-import com.omar98k.todolist.classes.TaskClass;
+import com.mohamad988.todo_list0.R;
+import com.mohamad988.todo_list0.classes.TaskClass;
 
 import java.util.ArrayList;
 
